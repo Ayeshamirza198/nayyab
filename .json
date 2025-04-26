@@ -1,7 +1,12 @@
 {
-    "user_name": "Ayesha"
+    "username": "Ayesha"
     "email": "ayhs123@gamil.com"
     "education"
-            {"institute":"ABCDcollage" "rollno" : "403421" }
+            {"institute":"ABCDcollage",
+              "rollno" : "403421" }
 '   "password": "secret1234"
  }
+{
+   "username" : "Ayesha"
+   "password" : "secret1234"
+}
